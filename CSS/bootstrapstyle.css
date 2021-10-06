@@ -1,0 +1,59 @@
+/* Header */
+@media (max-width: 576px){
+   .top-link {
+       display: none;
+   }  
+}
+
+    .header .top-header {
+    background-color: #121e2c;
+  }
+
+
+  .top-header a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+  }
+
+   {
+      border: 1px red;
+  }
+  
+/* Header */
+/* Main */
+
+@media {576px;
+    text-align: center;
+    
+
+}
+
+
+
+
+
+.section3 {
+    background: radial-gradient(
+        ellipse at top, 
+        rgba(41,70,102,1) 0%, 
+        rgba(23,32,47,1) 50%,
+        rgba(15,24,33,1) 100%);
+}
+
+.footer{
+    background-color: green;
+}
+
+.main-footer .sub-header{
+    border: 1px solid red;
+    text-transform: capitalize;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.buttonb{
+    transition: 1.5s;
+}
+
+
